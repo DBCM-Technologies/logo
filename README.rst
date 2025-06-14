@@ -1,4 +1,4 @@
-.. image:: logo.svg
+.. image:: banner.svg
     
 
 .. KING RAJU! ..
