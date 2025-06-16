@@ -1,7 +1,5 @@
 .. image:: banner.svg
     
-
 .. KING RAJU! ..
 
-The world
-==========
+**Copyright © 2025 DBCM Technologies**
